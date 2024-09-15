@@ -1,0 +1,40 @@
+INFO:root:                        PnL  Traded Volume  Sharpe Ratio  Sortino Ratio  Max Drawdown  Average Holding Time  Position Flips
+Strategy 1        -19.58589   513698.91375           NaN            NaN    1291.86217              2.126582           473.0
+Strategy 2       -118.22646   259962.62040           NaN            inf     226.14931              2.108787           477.0
+Perfect Strategy  263.44000   103182.28000           NaN            inf      41.49000              2.002016           495.0
+INFO:root:                        PnL  Traded Volume  Sharpe Ratio  Sortino Ratio  Max Drawdown  Average Holding Time  Position Flips
+Strategy 1       -423.41925   531460.86065           NaN            NaN     728.48493              2.016000           499.0
+Strategy 2        508.30101   263657.29393           NaN            NaN     587.23202              2.089212           481.0
+Perfect Strategy  263.44000   103182.28000           NaN            inf      41.49000              2.002016           495.0
+INFO:root:                        PnL  Traded Volume  Sharpe Ratio  Sortino Ratio  Max Drawdown  Average Holding Time  Position Flips
+Strategy 1       -188.94488   523385.65880           NaN            NaN    1097.21107              2.048780           491.0
+Strategy 2       -218.60278   262170.56364           NaN            inf     365.92558              2.117647           475.0
+Perfect Strategy  263.44000   103182.28000           NaN            inf      41.49000              2.002016           495.0
+INFO:root:                        PnL  Traded Volume  Sharpe Ratio  Sortino Ratio  Max Drawdown  Average Holding Time  Position Flips
+Strategy 1       -244.05773   524844.49523           NaN            NaN     920.00085              2.078351           484.0
+Strategy 2        168.41109   242302.44883           NaN            inf     301.62185              2.082645           483.0
+Perfect Strategy  263.44000   103182.28000           NaN            inf      41.49000              2.002016           495.0
+INFO:root:                        PnL  Traded Volume  Sharpe Ratio  Sortino Ratio  Max Drawdown  Average Holding Time  Position Flips
+Strategy 1        403.15485   519208.62777           NaN            NaN    1540.80347              2.113208           476.0
+Strategy 2        636.15614   262229.96838           NaN            NaN     287.29292              2.113208           476.0
+Perfect Strategy  263.44000   103182.28000           NaN            inf      41.49000              2.002016           495.0
+INFO:root:                         PnL  Traded Volume  Sharpe Ratio  Sortino Ratio  Max Drawdown  Average Holding Time  Position Flips
+Strategy 1       -1046.74038   525566.34572           NaN            inf    1765.52872              2.036364           494.0
+Strategy 2        -680.29531   272155.65251           NaN            inf    1222.24831              2.186551           460.0
+Perfect Strategy   263.44000   103182.28000           NaN            inf      41.49000              2.002016           495.0
+INFO:root:                        PnL  Traded Volume  Sharpe Ratio  Sortino Ratio  Max Drawdown  Average Holding Time  Position Flips
+Strategy 1        885.72988   548086.96272           NaN            NaN     421.80901              2.082645           483.0
+Strategy 2       -413.82303   251634.90307           NaN            inf     822.83015              2.095634           480.0
+Perfect Strategy  263.44000   103182.28000           NaN            inf      41.49000              2.002016           495.0
+INFO:root:                        PnL  Traded Volume  Sharpe Ratio  Sortino Ratio  Max Drawdown  Average Holding Time  Position Flips
+Strategy 1       -546.98854   537454.33620           NaN            inf    1657.17332              2.122105           474.0
+Strategy 2         33.15336   266882.69396           NaN            inf     436.47957              2.082645           483.0
+Perfect Strategy  263.44000   103182.28000           NaN            inf      41.49000              2.002016           495.0
+INFO:root:                        PnL  Traded Volume  Sharpe Ratio  Sortino Ratio  Max Drawdown  Average Holding Time  Position Flips
+Strategy 1       -637.12228   516614.20834           NaN            NaN    2043.76985              2.104384           478.0
+Strategy 2       -301.75795   260293.30191           NaN            inf    1074.43735              2.078351           484.0
+Perfect Strategy  263.44000   103182.28000           NaN            inf      41.49000              2.002016           495.0
+INFO:root:                        PnL  Traded Volume  Sharpe Ratio  Sortino Ratio  Max Drawdown  Average Holding Time  Position Flips
+Strategy 1       -153.45557   521857.47637           NaN            NaN     460.31022              2.104384           478.0
+Strategy 2        600.90107   255041.88651           NaN            NaN     930.66145              2.032258           495.0
+Perfect Strategy  263.44000   103182.28000           NaN            inf      41.49000              2.002016           495.0
